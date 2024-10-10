@@ -2,7 +2,6 @@
 layout: post
 title:  "Dell S3422DW with MacBook Pro Apple M2 Pro issue"
 date:   2024-08-20 10:04:08 +0100
-categories: tech eud
 ---
 
 # Problem
