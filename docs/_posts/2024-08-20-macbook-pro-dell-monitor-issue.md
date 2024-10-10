@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dell S3422DW with MacBook Pro Apple M2 Pro issue"
+title:  "MacBook Pro (2023) external screen resolution issue"
 date:   2024-08-20 10:04:08 +0100
 ---
 
