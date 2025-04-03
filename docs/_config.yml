@@ -22,7 +22,7 @@ title: Peter Gallagher
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Long-term persistance for things that I've spent some time thinking about, would be good to remember, 
-  but I know I'll have forgetton about next week.
+  but I know I'll have forgotten about next week.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://peter.gallagher.ie" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: p_gallagher_
